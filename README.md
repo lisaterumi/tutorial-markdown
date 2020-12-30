@@ -9,6 +9,6 @@ https://www.markdownguide.org/basic-syntax/
 
 | Markdown  |  HTML |  Saída renderizada  |
 |---|---|---|
-| Título de nível 1  | <h1>Título de nível 1</h1>  | # Título de nível 1  |  
-| Título de nível 2  |  <h2>Título de nível 2</h2> | ## Título de nível 2  | 
-| Título de nível 3  |  <h3>Título de nível 3</h3> | ### Título de nível 3  |
+| # Título de nível 1  |  <pre><h1>Título de nível 1</h1></pre>  | # Título de nível 1  |  
+| ## Título de nível 2  |  <pre><h2>Título de nível 2</h2></pre> | ## Título de nível 2  | 
+| ### Título de nível 3  |  <pre><h3>Título de nível 3</h3></pre> | ### Título de nível 3  |
