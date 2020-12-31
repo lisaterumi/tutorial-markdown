@@ -311,6 +311,6 @@ Saída:
 
 This **word** is bold. This <em>word</em> is italic.
 
-Por razões de segurança, nem todos os aplicativos Markdown suportam HTML em documentos Markdown, portanto em caso de dúvida, verifique a documentação do aplicativo Markdown. Alguns aplicativos suportam apenas um subconjunto de tags HTML. Porém, evite misturar a sintaxe Markdown dentro de tags HTML, como <pre><p>italico e **negrito**</p></pre>
+Por razões de segurança, nem todos os aplicativos Markdown suportam HTML em documentos Markdown, portanto em caso de dúvida, verifique a documentação do aplicativo Markdown. Alguns aplicativos suportam apenas um subconjunto de tags HTML. Porém, evite misturar a sintaxe Markdown dentro de tags HTML, como <pre>&#60p>italico e &#42;&#42;negrito&#42;&#42;&#60/p></pre>
 
 Referência: https://www.markdownguide.org/basic-syntax/
