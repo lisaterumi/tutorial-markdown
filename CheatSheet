@@ -79,23 +79,14 @@ Esta é uma frase com nota de rodapé. [^1]
 
 [^1]: Este é o rodapé.
 
-### Heading ID
+### Tachado
 
-### My Great Heading {#custom-id}
+~~O mundo é plano.~~
 
-### Definition List
+### Lista de tarefas
 
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
 
 Adaptado de: [The Markdown Guide](https://www.markdownguide.org)!
