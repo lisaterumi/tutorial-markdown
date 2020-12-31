@@ -31,7 +31,10 @@ Equivale a
 &lt;p>Parágrafo dois.&lt;/p>"
 
 ## Quebras de linha
-Para criar uma quebra de linha (equivalente ao &lt;br>), termine uma linha com dois ou mais espaços e tecle Enter.
+Para criar uma quebra de linha (equivalente ao &lt;br>), termine uma linha com dois ou mais espaços e tecle Enter. Ex:
+
+"Linha com quebra de linha.  "
+
 
 
 https://www.markdownguide.org/basic-syntax/
