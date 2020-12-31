@@ -1,6 +1,4 @@
-Tutorial Markdown - Comandos básicos
-
-# Tutorial Markdown
+# Tutorial Markdown - Comandos básicos
 
 ## Títulos
 Para criar um título, basta adicionar ```#``` na frente de uma palavra ou frase, sendo que o número de cerquilhas corresponde ao nível do título. 
