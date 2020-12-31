@@ -8,11 +8,10 @@ Ex: Para criar um nível de título três (equiavlente ao  &lt;h3>), usamos **##
 #### Sintaxe Alternativa
 Como alternativa, podemos adicionar = ou - na linha abaixo do texto. Ex: 
 
-Título de nível 1
+Título de nível 1<br>
 &equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;&equals;	
 
-Título de nível 2
-
+Título de nível 2<br>
 &minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;	
 
 
