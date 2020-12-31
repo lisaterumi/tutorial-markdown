@@ -192,7 +192,7 @@ Saída:
 
 ## Imagens
 
-![Título da imagem](/caminho/da/imagem.png)
+&#33;[Título da imagem](&#47;caminho&#47;da&#47;imagem.png)
 
 ## Código
 Para marcar uma palavra ou frase como código, coloque-a entre crases (&#96;), equivalente à tag &#60;code>.
@@ -201,9 +201,13 @@ Ex:
 
 Na linha de comando, digite &#96;comando&#96;.
 
+&#96;&#96;Escapando o sinal de &#96;crase&#96; no meu arquivo.&#96;&#96;
+
 Saída:
 
 Na linha de comando, digite `comando`.
+
+``Escapando o sinal de `crase` no meu arquivo.``
 
 
 
