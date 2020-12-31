@@ -8,14 +8,23 @@ Obs: Verifique a documentação do seu processador para saber se ele suporta ess
 ## Tabelas
 Para adicionar uma tabela, use três ou mais hífens (---) para criar o cabeçalho de cada coluna e verticais (|) para separar cada coluna. Opcionalmente, você pode adicionar bordas em qualquer extremidade da tabela.
 
+Para alinhar o texto, basta adicionar dois-pontos (:) à esquerda, à direita ou em ambos os lados dos hifens na linha do cabeçalho.
+
 Ex.
 
 <pre>
-| Sintaxe      | Descrição |
-| ----------- | ----------- |
-| Cabeçalho      | Titulo    |
-| Paragrafo   | Texto        |
+| Sintaxe     | Descrição  |
+| ----------- | -----------|
+| Cabeçalho   | Titulo     |
+| Paragrafo   | Texto      |
+
+| Sintaxe     | Descrição | Outro Texto|
+| :---        |    :----: |       ---: |
+| Cabeçalho   | Titulo    | Mais texto |
+| Paragrafo   | Texto     | E mais     |
+
 </pre>
+
 
 Saída:
 
@@ -23,6 +32,12 @@ Saída:
 | ----------- | ----------- |
 | Cabeçalho      | Titulo    |
 | Paragrafo   | Texto        |
+
+| Sintaxe     | Descrição | Outro Texto|
+| :---        |    :----: |       ---: |
+| Cabeçalho   | Titulo    | Mais texto |
+| Paragrafo   | Texto     | E mais     |
+
 
 Dica: Para acelerar o processo, você pode usar o [Gerador de tabelas Markdown](https://www.tablesgenerator.com/markdown_tables).
 
