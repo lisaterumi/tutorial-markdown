@@ -109,13 +109,25 @@ Saída:
    1. Subtem
 
 ## Listas não ordenadas
-Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.
+Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada. Evite misturar os símbolos na mesma lista.
 
-&minus;	Primeiro item
-&lowast; Segundo item
-&plus; Terceiro item
+&minus;	Primeiro item  
+&minus; Segundo item  
    &minus; Subtem
-   
+
+ou
+
+&lowast;Primeiro item  
+&lowast; Segundo item  
+   &lowast; Subtem
+
+ou
+
+&plus;	Primeiro item  
+&plus; Segundo item  
+&plus; Terceiro item  
+   &plus; Subtem
+
 Saída:
 
 - Primeiro item
