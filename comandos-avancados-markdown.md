@@ -21,7 +21,7 @@ Ex.
 | Paragrafo   | Texto      |
 
 | Sintaxe     | Descrição | Outro Texto|
-| :---        |    :----: |       ---: |
+| :---        |   :----:  |       ---: |
 | Cabeçalho   | Titulo    | Mais texto |
 | Paragrafo   | Texto     | E mais     |
 
