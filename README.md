@@ -300,7 +300,18 @@ Saída:
 
 \* Sem a barra invertida, isso seria um marcador em uma lista não ordenada.
 
+## HTML
+Muitos aplicativos Markdown permitem que você use tags HTML em texto formatado por Markdown. Usar HTML é útil quando você precisa alterar os atributos de um elemento, como especificar a cor do texto ou alterar a largura de uma imagem.
 
+Ex:
+
+<pre>This **word** is bold. This <em>word</em> is italic.</pre>
+
+Saída:
+
+This **word** is bold. This <em>word</em> is italic.
+
+Por razões de segurança, nem todos os aplicativos Markdown suportam HTML em documentos Markdown, portanto em caso de dúvida, verifique a documentação do aplicativo Markdown. Alguns aplicativos suportam apenas um subconjunto de tags HTML. Porém, não é possível misturar a sintaxe Markdown dentro de tags HTML, como <p>italico e **negrito**</p>, não vai funcionar.
 
 
 
