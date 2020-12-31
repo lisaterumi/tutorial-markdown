@@ -106,7 +106,21 @@ Saída:
 1. Primeiro item
 1. Segundo item
 1. Terceiro item
-   1.Subtem
+   1. Subtem
 
+## Listas não ordenadas
+Para criar uma lista não ordenada, adicione -, * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.
+
+- Primeiro item
+* Segundo item
++ Terceiro item
+   - Subtem
+   
+Saída:
+
+- Primeiro item
+- Segundo item
+- Terceiro item
+   - Subtem
 
 https://www.markdownguide.org/basic-syntax/
