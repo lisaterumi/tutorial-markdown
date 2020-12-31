@@ -15,6 +15,20 @@ Título de nível 2<br>
 &minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;	
 
 #### Recomendações 
-Procure sempre colocar um espaço entre os sinais numéricos e o nome do título (ex # Meu título ao invés de #Meu título).
+Procure sempre colocar um espaço entre os sinais numéricos e o nome do título (ex "# Meu título" ao invés de "#Meu título").
+
+## Parágrafos
+Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas de texto. Não idente com espaços ou tabulações. Ex:
+
+"Parágrafo um.
+
+Parágrafo dois"
+
+Equivale a 
+
+"&lt;p>Parágrafo um.&lt;/p>
+
+&lt;p>Parágrafo dois.&lt;/p>"
+
 
 https://www.markdownguide.org/basic-syntax/
