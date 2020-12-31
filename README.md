@@ -97,17 +97,17 @@ Para criar uma lista ordenada (equivalente ao &lt;ol>&lt;li>), adicione itens de
 
 Ex.
 
-1&sdot; Primeiro item  
-2&sdot; Segundo item  
-3&sdot; Terceiro item  
-&nbsp;&nbsp;&nbsp;1&sdot; Subitem
+1&#46; Primeiro item  
+2&#46; Segundo item  
+3&#46; Terceiro item  
+&nbsp;&nbsp;&nbsp;1&#46; Subitem
 
 ou
 
-1&sdot; Primeiro item  
-1&sdot; Segundo item  
-1&sdot; Terceiro item  
-&nbsp;&nbsp;&nbsp;1&sdot; Subitem
+1&#46; Primeiro item  
+1&#46; Segundo item  
+1&#46; Terceiro item  
+&nbsp;&nbsp;&nbsp;1&#46; Subitem
 
 Saída:
 
@@ -148,17 +148,17 @@ Para adicionar outro elemento em uma lista enquanto preserva a continuidade da m
 
 Ex:
 
-* This is the first list item.
-* Here's the second list item.
-    &#62; A blockquote would look great below the second list item.
-* And here's the third list item.
+* Este é o primeiro item da lista.
+* Este é o segundo item da lista.  
+    &#62; Este é um recuo com citação
+* Este é o terceiro item da lista.
 
 Saída:
 
-* This is the first list item.
-* Here's the second list item.
-    > A blockquote would look great below the second list item.
-* And here's the third list item.
+* Este é o primeiro item da lista.
+* Este é o segundo item da lista.
+    > Este é um recuo com citação
+* Este é o terceiro item da lista.
 
 
 ### Blocos de Código
@@ -166,23 +166,23 @@ Os blocos de código são normalmente recuados em quatro espaços ou uma tabula�
 
 Ex:
 
-1&sdot; Passo um.
-2&sdot; Passo 2.
-        &#60;html>
-          &#60;head>
-            &#60;title>Teste</title>
-          &#60;/head>
-3&sdot; Passo 3.
+1&#46; Passo um.  
+2&#46; Passo dois.  
+        &#60;html>  
+          &#60;head>  
+            &#60;title>Teste</title>  
+          &#60;/head>  
+3&#46; Passo três.
 
 Saída:
 
 1. Passo um.
-2. Passo 2.
+2. Passo dois.
         <html>
           <head>
             <title>Teste</title>
           </head>
-3. Passo 3.
+3. Passo três.
 
 
 
