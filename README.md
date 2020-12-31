@@ -94,7 +94,7 @@ Ex.
 3. Terceiro item
     1.Subtem
 
-e
+ou
 
 1. Primeiro item
 1. Segundo item
@@ -109,12 +109,12 @@ Saída:
    1. Subtem
 
 ## Listas não ordenadas
-Para criar uma lista não ordenada, adicione -, * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.
+Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.
 
-- Primeiro item
-* Segundo item
-+ Terceiro item
-   - Subtem
+&minus;	Primeiro item
+&lowast; Segundo item
+&plus; Terceiro item
+   &minus; Subtem
    
 Saída:
 
