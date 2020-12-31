@@ -150,18 +150,14 @@ Ex:
 
 * This is the first list item.
 * Here's the second list item.
-
-    > A blockquote would look great below the second list item.
-
+    &#62; A blockquote would look great below the second list item.
 * And here's the third list item.
 
 Saída:
 
 * This is the first list item.
 * Here's the second list item.
-
     > A blockquote would look great below the second list item.
-
 * And here's the third list item.
 
 
@@ -172,24 +168,20 @@ Ex:
 
 1&sdot; Passo um.
 2&sdot; Passo 2.
-
-        <html>
-          <head>
-            <title>Teste</title>
-          </head>
-
+        &#60;html>
+          &#60;head>
+            &#60;title>Teste</title>
+          &#60;/head>
 3&sdot; Passo 3.
 
 Saída:
 
 1. Passo um.
 2. Passo 2.
-
         <html>
           <head>
             <title>Teste</title>
           </head>
-
 3. Passo 3.
 
 
