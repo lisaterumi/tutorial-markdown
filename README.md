@@ -214,10 +214,10 @@ Para criar blocos de código, indente cada linha do bloco em pelo menos quatro e
 
 Ex:
 
-&nbsp;&nbsp;&#60;html>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;head>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/head>  
-&nbsp;&nbsp;&nbsp;&nbsp;&#60;/html>  
+&nbsp;&nbsp;&#60;tag1>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;tag2>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/tag2>  
+&nbsp;&nbsp;&nbsp;&nbsp;&#60;/tag1>  
 
 ou 
 
@@ -231,10 +231,10 @@ ou
 
 Saída:
 
-  <html>  
-      <head>  
-      </head>  
-  </html>  
+  <tag1>  
+      <tag2>  
+      </tag2>  
+  </tag1>  
     
 
 ```
