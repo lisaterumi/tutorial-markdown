@@ -89,9 +89,9 @@ Obs: Nem todos os aplicativos Markdown suportam esses elementos.
       <td>Bloco de código</td>
       <td><code>```<br>
       {<br>
-      &nbsp;&nbsp;"nome": "Matheus",<br>
-      &nbsp;&nbsp;"sobrenome": "Smith",<br>
-      &nbsp;&nbsp;"idade": 41<br>
+      &nbsp;&nbsp;"nome": "Matheus",<br>  
+      &nbsp;&nbsp;"sobrenome": "Smith",<br>  
+      &nbsp;&nbsp;"idade": 41<br>  
       }<br>
       ```
       </code></td>
