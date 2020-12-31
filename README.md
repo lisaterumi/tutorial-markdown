@@ -217,7 +217,7 @@ Ex:
 &nbsp;&nbsp;&#60;tag1>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;tag2>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/tag2>  
-&nbsp;&nbsp;&nbsp;&nbsp;&#60;/tag1>  
+&nbsp;&nbsp;&nbsp;&#60;/tag1>  
 
 ou 
 
@@ -231,10 +231,10 @@ ou
 
 Saída:
 
-  <tag1>  
+    <tag1>  
       <tag2>  
       </tag2>  
-  </tag1>  
+    </tag1>  
     
 
 ```
@@ -248,6 +248,10 @@ Saída:
 ## Linhas horizontais
 Para criar uma linha ou régua horizontal, use três ou mais asteriscos (***), traços (---) ou sublinhados (___) em uma linha.
 
+***
 
+---
+
+_________________
 
 https://www.markdownguide.org/basic-syntax/
