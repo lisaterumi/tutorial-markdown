@@ -69,3 +69,31 @@ Saída:
 }
 ```
 
+## Tachado
+Você pode tachar palavras colocando \~\~ antes e depois das palavras.
+
+Ex:
+
+\~\~A Terra é plana.\~\~ Agora sabemos que é redonda.
+
+Saída:
+
+~~A Terra é plana.~~ Agora sabemos que é redonda.
+
+## Listas de Tarefas
+As listas de tarefas são listas de itens com caixas de seleção. Em aplicativos Markdown que suportam listas de tarefas, as caixas de seleção serão exibidas ao lado do conteúdo. Para criar uma lista de tarefas, adicione (-) e colchetes com um espaço ([ ]) na frente dos itens da lista de tarefas. Para selecionar uma caixa de seleção, adicione um x entre colchetes ([x]).
+
+Ex:
+
+<pre>
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+</pre>
+
+Saída:
+
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+
