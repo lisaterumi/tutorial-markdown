@@ -5,6 +5,18 @@
 1. [Parágrafos](#Parágrafos)
 1. [Quebras de linha](#Quebras-de-linha)
 1. [Negrito](#Negrito)
+1. [Itálico](#Itálico)
+1. [Negrito e Itálico](#Negrito-e-Italico)
+1. [Citações em bloco](#Citações-em-bloco)
+1. [Listas Ordenadas](#Listas-Ordenadas)
+1. [Listas não ordenadas](#Listas-não-ordenadas)
+1. [Imagens](#Imagens)
+1. [Código](#Código)
+1. [Blocos de Código](#Blocos-de-Código)
+1. [Linhas horizontais](#Linhas-horizontais)
+1. [URLs e endereços de e-mail](#URL)
+1. [Escapando caracteres](#Escapando-caracteres)
+1. [HTML](#HTML)
 
 ## Títulos<a name="Títulos"></a>
 Para criar um título, basta adicionar ```#``` na frente de uma palavra ou frase, sendo que o número de cerquilhas corresponde ao nível do título. 
