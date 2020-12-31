@@ -110,35 +110,30 @@ Alguns aplicativos Markdown permitem inserir emoji digitando códigos de atalho 
 
 Ex:
 
-Gone camping! :tent: Be back soon.
+<pre>
+Fomos acampar! :tent: Voltamos logo.
 
 Foi divertido! :joy:
+</pre>
 
 Saída:
 
-Gone camping! :tent: Be back soon.
+Fomos acampar! :tent: Voltamos logo.
 
 Foi divertido! :joy:
 
-Foi acampar! ⛺ Volto logo.
+## Desativando Link Automático de URL
+Muitos processadores Markdown transformam URLs em links automaticamente. Isso significa que se digitarmos http://www.example.com, o processador Markdown o transformará automaticamente em um link, mesmo que você não tenha usado colchetes.
 
-Isso é tão engraçado! 😂
+Para evitar que uma URL seja vinculada a um link automaticamente, basta remover o link usando crases.
 
- Observação: você pode usar esta lista de códigos de atalho de emoji , mas lembre-se de que os códigos de atalho de emoji variam de aplicativo para aplicativo. Consulte a documentação do aplicativo Markdown para obter mais informações.
-Vinculação automática de URL
-Muitos processadores Markdown transformam URLs em links automaticamente. Isso significa que se você digitar http://www.example.com, seu processador Markdown o transformará automaticamente em um link, mesmo que você não tenha usado colchetes .
+Ex: 
 
-http://www.example.com
-A saída renderizada é semelhante a esta:
+\`http://www.example.com\`
 
-http://www.example.com
-
-Desativando Link Automático de URL
-Se não quiser que um URL seja vinculado automaticamente, você pode remover o link denotando o URL como um código com crases.
+Saída:
 
 `http://www.example.com`
-A saída renderizada é semelhante a esta:
 
-http://www.example.com
 
 Adaptado de: https://www.markdownguide.org/extended-syntax/
