@@ -59,6 +59,13 @@ Texto &lowast;&lowast;&lowast;em itálico e negrito&lowast;&lowast;&lowast;.
 
 Texto  &#95;&#95;&#95;em itálico e negrito&#95;&#95;&#95;.
 
+## Citações em bloco
+Para criar um *blockquote*, adicione um > na frente de um parágrafo.
 
+> Texto em citação.
+
+A saída renderizada é semelhante a esta:
+
+> Texto em citação.
 
 https://www.markdownguide.org/basic-syntax/
