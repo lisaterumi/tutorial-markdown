@@ -3,7 +3,13 @@
 ## Títulos
 Para criar um título, basta adicionar ```#``` na frente de uma palavra ou frase, sendo que o número de cerquilhas corresponde ao nível do título. 
 
-Ex: Para criar um nível de título três (equiavlente ao  &lt;h3>), usamos **###** ("### Meu título")
+Ex: (equiavlente ao  &lt;h3>)
+
+&#35;&#35;&#35; Meu título nível 3
+
+Saída: 
+
+### Meu título nível 3
 
 #### Sintaxe Alternativa
 Como alternativa, podemos adicionar = ou - na linha abaixo do texto. Ex: 
@@ -18,7 +24,9 @@ Título de nível 2<br>
 Procure sempre colocar um espaço entre os sinais numéricos e o nome do título (ex "# Meu título" ao invés de "#Meu título").
 
 ## Parágrafos
-Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas de texto. Não idente com espaços ou tabulações. Ex:
+Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas de texto. Não idente com espaços ou tabulações. 
+
+Ex:
 
 "Parágrafo um.
 
@@ -92,14 +100,14 @@ Ex.
 1&sdot; Primeiro item  
 2&sdot; Segundo item  
 3&sdot; Terceiro item  
-&nbsp;&nbsp;&nbsp;&sdot; Subitem
+&nbsp;&nbsp;&nbsp;1&sdot; Subitem
 
 ou
 
 1&sdot; Primeiro item  
 1&sdot; Segundo item  
 1&sdot; Terceiro item  
-&nbsp;&nbsp;&nbsp;&sdot; Subitem
+&nbsp;&nbsp;&nbsp;1&sdot; Subitem
 
 Saída:
 
@@ -110,6 +118,8 @@ Saída:
 
 ## Listas não ordenadas
 Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada. Evite misturar os símbolos na mesma lista.
+
+Ex:
 
 &minus;	Primeiro item  
 &minus; Segundo item  
@@ -132,5 +142,28 @@ Saída:
 - Primeiro item
 - Segundo item
    - Subitem
+   
+### Adicionando Elementos em Listas
+Para adicionar outro elemento em uma lista enquanto preserva a continuidade da mesma, indente o elemento quatro espaços ou uma tabulação. 
+
+Ex:
+
+*   This is the first list item.
+*   Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+*   And here's the third list item.
+
+Saída:
+
+*   This is the first list item.
+*   Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+*   And here's the third list item.
+
+
 
 https://www.markdownguide.org/basic-syntax/
