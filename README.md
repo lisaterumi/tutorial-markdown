@@ -210,22 +210,43 @@ Na linha de comando, digite `comando`.
 ``Escapando o sinal de `crase` no meu arquivo.``
 
 ## Blocos de Código
-Para criar blocos de código, indente cada linha do bloco em pelo menos quatro espaços ou uma tabulação.
+Para criar blocos de código, indente cada linha do bloco em pelo menos quatro espaços ou uma tabulação. Outra maneira é usar blocos de código protegidos, usando três crases (&#96;&#96;&#96;) ou três tis (&#126;&#126;&#126;) nas linhas antes e depois do bloco de código. 
 
 Ex:
 
-&nbsp;&nbsp;&#60;html>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;head>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/head>
-&nbsp;&nbsp;&nbsp;&nbsp;&#60;/html>
+&nbsp;&nbsp;&#60;html>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;head>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/head>  
+&nbsp;&nbsp;&nbsp;&nbsp;&#60;/html>  
+
+ou 
+
+&#96;&#96;&#96;
+{
+  "nome": "Mateus",
+  "sobrenome": "Smith",
+  "idade": 41
+}
+&#96;&#96;&#96;
 
 Saída:
 
-  <html>
-      <head>
-      </head>
-    </html>
+  &#60;html>
+      &#60;head>
+      &#60;/head>
+    &#60;/html>
+    
 
+```
+{
+  "nome": "Mateus",
+  "sobrenome": "Smith",
+  "idade": 41
+}
+```
+
+## Linhas horizontais
+Para criar uma linha ou régua horizontal, use três ou mais asteriscos (***), traços (---) ou sublinhados (___) em uma linha.
 
 
 
