@@ -305,12 +305,13 @@ Muitos aplicativos Markdown permitem que você use tags HTML em texto formatado 
 
 Ex:
 
-<pre>Esta **palavra** está em negrito. Esta <em>papalvra</em> está em itálico.</pre>
+<pre>Esta **palavra** está em negrito. Esta <em>palavra</em> está em itálico.</pre>
 
 Saída:
 
-This **word** is bold. This <em>word</em> is italic.
+Esta **palavra** está em negrito. Esta <em>palavra</em> está em itálico.
 
 Por razões de segurança, nem todos os aplicativos Markdown suportam HTML em documentos Markdown, portanto em caso de dúvida, verifique a documentação do aplicativo Markdown. Alguns aplicativos suportam apenas um subconjunto de tags HTML. Porém, evite misturar a sintaxe Markdown dentro de tags HTML, como &#60;p>italico e &#42;&#42;negrito&#42;&#42;&#60;/p>.
+
 
 Referência: https://www.markdownguide.org/basic-syntax/
