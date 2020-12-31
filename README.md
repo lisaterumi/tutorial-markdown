@@ -39,9 +39,9 @@ Para criar uma quebra de linha (equivalente ao &lt;br>), termine uma linha com d
 
 Para texto em negrito, adicione dois asteriscos ou sublinhados antes e depois de uma palavra ou frase, ou ao redor das letras. Ex: 
 
-Texto **em negrito**.	
+Texto &lowast;&lowast;em negrito&lowast;&lowast;.	
 
-Texto __em negrito__.	
+Texto  &#95;&#95;em negrito &#95;&#95;.	
 
 
 https://www.markdownguide.org/basic-syntax/
