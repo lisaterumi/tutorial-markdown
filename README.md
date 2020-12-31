@@ -248,10 +248,18 @@ Saída:
 ## Linhas horizontais
 Para criar uma linha ou régua horizontal, use três ou mais asteriscos (***), traços (---) ou sublinhados (___) em uma linha.
 
-***
+Ex:
+
+&#42;&#42;&#42;
+
+&#45;&#45;&#45;
+
+&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;
+
+Saída:
 
 ---
 
-_________________
+
 
 https://www.markdownguide.org/basic-syntax/
