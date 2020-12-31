@@ -7,13 +7,13 @@ Obs: Verifique a documentação do seu processador para saber se ele suporta ess
 
 ## Indice
 1. [Tabelas](#Tabelas)
-1. [Realce de sintaxe](#Realce&nbsp;de&nbsp;sintaxe)
+1. [Realce de sintaxe](#Realce-de-sintaxe)
 1. [Tachado](#Tachado)
-1. [Listas de Tarefa](#Listas de Tarefa)
+1. [Listas de Tarefa](#Listas-de-Tarefa)
 1. [Emoji](#Emoji)
-  1. [Copiando e colando emoji](#Copiando e colando emoji)
-  1. [Usando códigos de atalho de emoji](#Usando códigos de atalho de emoji)
-1. [Desativando Link Automático de URL](#Desativando Link Automático de URL)
+  1. [Copiando e colando emoji](#Copiando-e-colando-emoji)
+  1. [Usando códigos de atalho de emoji](#Usando-códigos-de-atalho-de-emoji)
+1. [Desativando Link Automático de URL](#Desativando-Link-Automático-de-URL)
 
 
 ## Tabelas
