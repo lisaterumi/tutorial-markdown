@@ -294,7 +294,7 @@ Para exibir um caractere literal que de outra forma seria usado para formatar te
 
 Ex:
 
-\&#42;Sem a barra invertida, isso seria um marcador em uma lista não ordenada.
+<pre>\*Sem a barra invertida, isso seria um marcador em uma lista não ordenada.</pre>
 
 Saída:
 
