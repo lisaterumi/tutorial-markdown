@@ -261,15 +261,15 @@ Saída:
 ---
 
 ##Links
-Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Página]) seguido com a URL entre parênteses (por exemplo, (https://pagina.com)).
+Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Página]) seguido com a URL entre parênteses (por exemplo, (https://pagina.com)). Para adicionar um título para o link (opcional), basta colocar entre aspas após o URL.
 
 Ex:
 
-<pre>Esta é a minha [Página](https://pagina.com).</pre>
+<pre>Esta é a minha [Página](https://pagina.com "Titulo da pagina").</pre>
 
 Saída:
 
-Esta é a minha [Página](https://pagina.com).
+Esta é a minha [Página](https://pagina.com "Titulo da pagina").
 
 
 
