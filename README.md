@@ -64,15 +64,15 @@ Para criar um *blockquote*, adicione um &gt; na frente de um parágrafo.
 
 &gt; Texto em citação.
 
-&gt; Texto em citação
-&gt; 
+&gt; Outro texto em citação  
+&gt;  
 &gt; com várias linhas.
 
 A saída renderizada é semelhante a esta:
 
 > Texto em citação.
 
-> Texto em citação
+> Outro texto em citação
 > 
 > com várias linhas.
 
