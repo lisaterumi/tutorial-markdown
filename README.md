@@ -260,6 +260,19 @@ Saída:
 
 ---
 
+##Links
+Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Página]) seguido com a URL entre parênteses (por exemplo, (https://pagina.com)).
+
+Ex:
+
+[pre]Esta é a minha [Página](https://pagina.com).[/pre]
+
+Saída:
+
+Esta é a minha [Página](https://pagina.com).
+
+
+
 
 
 https://www.markdownguide.org/basic-syntax/
