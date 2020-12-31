@@ -160,6 +160,8 @@ Saída:
     > Este é um recuo com citação
 * Este é o terceiro item da lista.
 
+Obs: Também é possivel aninhar uma lista não ordenada em uma lista ordenada ou vice-versa.
+
 
 ### Blocos de Código
 Os blocos de código são normalmente recuados em quatro espaços ou uma tabulação (em listas, devem ser recuado oito espaços ou duas tabulações).
@@ -187,6 +189,26 @@ Saída:
           </head>
           
 3. Passo três.
+
+## Imagens
+
+![Título da imagem](/caminho/da/imagem.png)
+
+## Código
+Para marcar uma palavra ou frase como código, coloque-a entre crases (&#96;), equivalente à tag &#60;code>.
+
+Ex:
+
+Na linha de comando, digite &#96;comando&#96;.
+
+Saída:
+
+Na linha de comando, digite `comando`.
+
+
+
+
+
 
 
 
