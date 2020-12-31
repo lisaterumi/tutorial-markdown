@@ -192,7 +192,12 @@ Saída:
 
 ## Imagens
 
-&#33;&#91;Título da imagem](&#47;caminho&#47;da&#47;imagem.png)
+Para adicionar uma imagem, adicione um ponto de exclamação (!), seguido pelo texto alternativo entre colchetes e o caminho ou URL para o recurso de imagem entre parênteses. Você pode opcionalmente adicionar um título após o URL entre aspas.
+
+&#33;&#91;Imagem](&#47;caminho&#47;da&#47;imagem.png "titulo da imagem")
+
+&#91;&#33;&#91;Imagem com link](&#47;caminho&#47;da&#47;imagem.jpg "titulo da imagem com link")](https://www.link.com)
+
 
 ## Código
 Para marcar uma palavra ou frase como código, coloque-a entre crases (&#96;), equivalente à tag &#60;code>.
