@@ -92,14 +92,14 @@ Ex.
 1&sdot; Primeiro item  
 2&sdot; Segundo item  
 3&sdot; Terceiro item  
-    1&sdot; Subitem
+&nbsp;&nbsp;&nbsp;&sdot; Subitem
 
 ou
 
 1&sdot; Primeiro item  
 1&sdot; Segundo item  
 1&sdot; Terceiro item  
-   1&sdot; Subitem
+&nbsp;&nbsp;&nbsp;&sdot; Subitem
 
 Saída:
 
