@@ -221,20 +221,21 @@ Ex:
 
 ou 
 
-&#96;&#96;&#96;
-{
-  "nome": "Mateus",
-  "sobrenome": "Smith",
-  "idade": 41
-}
+&#96;&#96;&#96;  
+{  
+&nbsp;&nbsp;  
+"nome": "Mateus",  
+&nbsp;&nbsp;"sobrenome": "Smith",  
+&nbsp;&nbsp;"idade": 41  
+}  
 &#96;&#96;&#96;
 
 Saída:
 
-  &#60;html>
-      &#60;head>
-      &#60;/head>
-    &#60;/html>
+  &#60;html>  
+      &#60;head>  
+      &#60;/head>  
+    &#60;/html>  
     
 
 ```
