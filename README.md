@@ -92,47 +92,47 @@ Ex.
 1. Primeiro item
 2. Segundo item
 3. Terceiro item
-    1.Subtem
+    1. Subitem
 
 ou
 
 1. Primeiro item
 1. Segundo item
 1. Terceiro item
-   1.Subtem
+   1.Subitem
 
 Saída:
 
 1. Primeiro item
 1. Segundo item
 1. Terceiro item
-   1. Subtem
+   1. Subitem
 
 ## Listas não ordenadas
 Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada. Evite misturar os símbolos na mesma lista.
 
 &minus;	Primeiro item  
 &minus; Segundo item  
-   &minus; Subtem
+&nbsp;&nbsp;&nbsp;&minus; Subitem
 
 ou
 
 &lowast;Primeiro item  
 &lowast; Segundo item  
-   &lowast; Subtem
+&nbsp;&nbsp;&nbsp;&lowast; Subitem
 
 ou
 
 &plus;	Primeiro item  
 &plus; Segundo item  
 &plus; Terceiro item  
-   &plus; Subtem
+&nbsp;&nbsp;&nbsp;&plus; Subitem
 
 Saída:
 
 - Primeiro item
 - Segundo item
 - Terceiro item
-   - Subtem
+   - Subitem
 
 https://www.markdownguide.org/basic-syntax/
