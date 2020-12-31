@@ -84,5 +84,29 @@ A saída renderizada é semelhante a esta:
 >  
 >> aninhada.
 
+## Listas Ordenadas
+Para criar uma lista ordenada (equivalente ao &lt;ol>&lt;li>), adicione itens de linha com números seguidos de pontos. Os números não precisam estar em ordem numérica, mas a lista deve começar com o número um.
+
+Ex.
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+    1.Subtem
+
+e
+
+1. Primeiro item
+1. Segundo item
+1. Terceiro item
+   1.Subtem
+
+Saída:
+
+1. Primeiro item
+1. Segundo item
+1. Terceiro item
+   1.Subtem
+
 
 https://www.markdownguide.org/basic-syntax/
