@@ -80,7 +80,7 @@ Para criar um *blockquote*, adicione um &gt; na frente de um parágrafo.
 &gt;  
 &gt;&gt; aninhada.
 
-A saída renderizada é semelhante a esta:
+Saída:
 
 > Texto em citação.
 
@@ -148,21 +148,49 @@ Para adicionar outro elemento em uma lista enquanto preserva a continuidade da m
 
 Ex:
 
-*   This is the first list item.
-*   Here's the second list item.
+* This is the first list item.
+* Here's the second list item.
 
     > A blockquote would look great below the second list item.
 
-*   And here's the third list item.
+* And here's the third list item.
 
 Saída:
 
-*   This is the first list item.
-*   Here's the second list item.
+* This is the first list item.
+* Here's the second list item.
 
     > A blockquote would look great below the second list item.
 
-*   And here's the third list item.
+* And here's the third list item.
+
+
+### Blocos de Código
+Os blocos de código são normalmente recuados em quatro espaços ou uma tabulação (em listas, devem ser recuado oito espaços ou duas tabulações).
+
+Ex:
+
+1&sdot; Passo um.
+2&sdot; Passo 2.
+
+        <html>
+          <head>
+            <title>Teste</title>
+          </head>
+
+3&sdot; Passo 3.
+
+Saída:
+
+1. Passo um.
+2. Passo 2.
+
+        <html>
+          <head>
+            <title>Teste</title>
+          </head>
+
+3. Passo 3.
 
 
 
