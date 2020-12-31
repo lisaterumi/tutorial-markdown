@@ -289,6 +289,17 @@ Saída:
 <https://www.pagina.com>
 <fake@example.com>
 
+## Escapando caracteres
+Para exibir um caractere literal que de outra forma seria usado para formatar texto em um documento Markdown, adicione uma barra invertida ( \) na frente do caractere.
+
+Ex:
+
+\&#42;Sem a barra invertida, isso seria um marcador em uma lista não ordenada.
+
+Saída:
+
+\* Sem a barra invertida, isso seria um marcador em uma lista não ordenada.
+
 
 
 
