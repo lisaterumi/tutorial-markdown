@@ -271,6 +271,20 @@ Saída:
 
 Esta é a minha [Página](https://pagina.com "Titulo da pagina").
 
+## URLs e endereços de e-mail
+Para transformar rapidamente uma URL ou endereço de e-mail em um link, basta colocar entre < e >.
+
+Ex:
+
+&#60;https://www.pagina.com>
+&#60;fake@example.com>
+
+Saída:
+
+<https://www.pagina.com>
+<fake@example.com>
+
+
 
 
 
