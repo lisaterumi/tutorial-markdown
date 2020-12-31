@@ -14,6 +14,7 @@
 1. [Código](#Código)
 1. [Blocos de Código](#Blocos-de-Código)
 1. [Linhas horizontais](#Linhas-horizontais)
+1. [Links](#Links)
 1. [URLs e endereços de e-mail](#URL)
 1. [Escapando caracteres](#Escapando-caracteres)
 1. [HTML](#HTML)
@@ -282,7 +283,7 @@ Saída:
 
 ---
 
-## Links<a name="links"></a>
+## Links<a name="Links"></a>
 Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Página]) seguido com a URL entre parênteses (por exemplo, (https://pagina.com)). Para adicionar um título para o link (opcional), basta colocar entre aspas após o URL.
 
 Ex:
