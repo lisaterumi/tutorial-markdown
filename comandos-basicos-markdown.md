@@ -181,7 +181,7 @@ Saída:
 
 Obs: Também é possivel aninhar uma lista não ordenada em uma lista ordenada ou vice-versa.
 
-### Blocos de Código
+### Blocos de Código em lista
 Os blocos de código são normalmente recuados em quatro espaços ou uma tabulação (em listas, devem ser recuado oito espaços ou duas tabulações).
 
 Ex:
