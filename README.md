@@ -53,7 +53,7 @@ Texto  &#95;em itálico;&#95;.
 
 ## Negrito e Itálico
 
-Para enfatizar o texto com negrito e itálico ao mesmo tempo, adicione três asteriscos ou sublinhados antes e depois de uma palavra ou frase. 
+Para enfatizar o texto com negrito e itálico ao mesmo tempo, adicione três asteriscos ou sublinhados antes e depois de uma palavra ou frase. As citações podem ser aninhadas, com >> na frente do parágrafo que deseja aninhar.
 
 Texto &lowast;&lowast;&lowast;em itálico e negrito&lowast;&lowast;&lowast;.	
 
@@ -68,6 +68,10 @@ Para criar um *blockquote*, adicione um &gt; na frente de um parágrafo.
 &gt;  
 &gt; com várias linhas.
 
+&gt; Exemplo de citação  
+&gt;  
+&gt;&gt; aninhada.
+
 A saída renderizada é semelhante a esta:
 
 > Texto em citação.
@@ -75,6 +79,10 @@ A saída renderizada é semelhante a esta:
 > Outro texto em citação
 > 
 > com várias linhas.
+
+> Exemplo de citação  
+>  
+>> aninhada.
 
 
 https://www.markdownguide.org/basic-syntax/
