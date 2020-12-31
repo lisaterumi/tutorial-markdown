@@ -1,6 +1,6 @@
 # Tutorial Markdown
 
-### Títulos
+## Títulos
 Para criar um título, basta adicionar ```#``` na frente de uma palavra ou frase, sendo que o número de cerquilhas corresponde ao nível do título. 
 
 Ex: Para criar um nível de título três (equiavlente ao  &lt;h3>), usamos **###** ("### Meu título")
@@ -14,6 +14,7 @@ Título de nível 1<br>
 Título de nível 2<br>
 &minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;&minus;	
 
-
+#### Recomendações 
+Procure sempre colocar um espaço entre os sinais numéricos e o nome do título (ex # Meu título ao invés de #Meu título).
 
 https://www.markdownguide.org/basic-syntax/
