@@ -223,7 +223,6 @@ ou
 
 &#96;&#96;&#96;  
 {  
-&nbsp;&nbsp;  
 "nome": "Mateus",  
 &nbsp;&nbsp;"sobrenome": "Smith",  
 &nbsp;&nbsp;"idade": 41  
@@ -232,10 +231,10 @@ ou
 
 Saída:
 
-  &#60;html>  
-      &#60;head>  
-      &#60;/head>  
-    &#60;/html>  
+  <html>  
+      <head>  
+      </head>  
+  </html>  
     
 
 ```
