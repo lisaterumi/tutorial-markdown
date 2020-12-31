@@ -41,7 +41,7 @@ Título de nível 2<br>
 #### Recomendações 
 Procure sempre colocar um espaço entre os sinais numéricos e o nome do título (ex "# Meu título" ao invés de "#Meu título").
 
-## Parágrafos
+## Parágrafos<a name="Parágrafos"></a>
 Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas de texto. Não idente com espaços ou tabulações. 
 
 Ex:
@@ -56,12 +56,12 @@ Equivale a
 
 &lt;p>Parágrafo dois.&lt;/p>"
 
-## Quebras de linha
+## Quebras de linha<a name="Quebras-de-linha"></a>
 Para criar uma quebra de linha (equivalente ao &lt;br>), termine uma linha com dois ou mais espaços e tecle Enter. Ex:
 
 "Linha com quebra de linha.  "
 
-## Negrito
+## Negrito<a name="Negrito"></a>
 
 Para texto em negrito, adicione dois asteriscos ou sublinhados antes e depois de uma palavra ou frase, ou ao redor das letras. Ex: 
 
@@ -69,7 +69,7 @@ Texto &lowast;&lowast;em negrito&lowast;&lowast;.
 
 Texto  &#95;&#95;em negrito &#95;&#95;.	
 
-## Itálico
+## Itálico<a name="Itálico"></a>
 
 Para colocar o texto em itálico, adicione um asterisco ou sublinhado antes e depois de uma palavra ou frase. Ex:
 
@@ -77,7 +77,7 @@ Texto &lowast;em itálico&lowast;.
 
 Texto  &#95;em itálico;&#95;.
 
-## Negrito e Itálico
+## Negrito e Itálico<a name="Negrito-e-Italico"></a>
 
 Para enfatizar o texto com negrito e itálico ao mesmo tempo, adicione três asteriscos ou sublinhados antes e depois de uma palavra ou frase. As citações podem ser aninhadas, com >> na frente do parágrafo que deseja aninhar.
 
@@ -85,7 +85,7 @@ Texto &lowast;&lowast;&lowast;em itálico e negrito&lowast;&lowast;&lowast;.
 
 Texto  &#95;&#95;&#95;em itálico e negrito&#95;&#95;&#95;.
 
-## Citações em bloco
+## Citações em bloco<a name="Citações-em-bloco"></a>
 Para criar um *blockquote*, adicione um &gt; na frente de um parágrafo.
 
 &gt; Texto em citação.
@@ -110,7 +110,7 @@ Saída:
 >  
 >> aninhada.
 
-## Listas Ordenadas
+## Listas Ordenadas<a name="Listas-Ordenadas"></a>
 Para criar uma lista ordenada (equivalente ao &lt;ol>&lt;li>), adicione itens de linha com números seguidos de pontos. Os números não precisam estar em ordem numérica, mas a lista deve começar com o número um.
 
 Ex.
@@ -134,7 +134,7 @@ Saída:
 1. Terceiro item
    1. Subitem
 
-## Listas não ordenadas
+## Listas não ordenadas<a name="Listas-não-ordenadas"></a>
 Para criar uma lista não ordenada, adicione - , * ou + na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada. Evite misturar os símbolos na mesma lista.
 
 Ex:
@@ -180,7 +180,6 @@ Saída:
 
 Obs: Também é possivel aninhar uma lista não ordenada em uma lista ordenada ou vice-versa.
 
-
 ### Blocos de Código
 Os blocos de código são normalmente recuados em quatro espaços ou uma tabulação (em listas, devem ser recuado oito espaços ou duas tabulações).
 
@@ -208,7 +207,7 @@ Saída:
           
 3. Passo três.
 
-## Imagens
+## Imagens<a name="Imagens"></a>
 
 Para adicionar uma imagem, adicione um ponto de exclamação (!), seguido pelo texto alternativo entre colchetes e o caminho ou URL para o recurso de imagem entre parênteses. Você pode opcionalmente adicionar um título após o URL entre aspas.
 
@@ -217,7 +216,7 @@ Para adicionar uma imagem, adicione um ponto de exclamação (!), seguido pelo t
 &#91;&#33;&#91;Imagem com link](&#47;caminho&#47;da&#47;imagem.jpg "titulo da imagem com link")](https://www.link.com)
 
 
-## Código
+## Código<a name="Código"></a>
 Para marcar uma palavra ou frase como código, coloque-a entre crases (&#96;), equivalente à tag &#60;code>.
 
 Ex:
@@ -232,7 +231,7 @@ Na linha de comando, digite `comando`.
 
 ``Escapando o sinal de `crase` no meu arquivo.``
 
-## Blocos de Código
+## Blocos de Código<a name="Blocos-de-Código"></a>
 Para criar blocos de código, indente cada linha do bloco em pelo menos quatro espaços ou uma tabulação. Outra maneira é usar blocos de código protegidos, usando três crases (&#96;&#96;&#96;) ou três tis (&#126;&#126;&#126;) nas linhas antes e depois do bloco de código. 
 
 Ex:
@@ -268,7 +267,7 @@ Saída:
 }
 ```
 
-## Linhas horizontais
+## Linhas horizontais<a name="Linhas-horizontais"></a>
 Para criar uma linha ou régua horizontal, use três ou mais asteriscos (***), traços (---) ou sublinhados (___) em uma linha.
 
 Ex:
@@ -283,7 +282,7 @@ Saída:
 
 ---
 
-##Links
+## Links<a name="links"></a>
 Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Página]) seguido com a URL entre parênteses (por exemplo, (https://pagina.com)). Para adicionar um título para o link (opcional), basta colocar entre aspas após o URL.
 
 Ex:
@@ -294,7 +293,7 @@ Saída:
 
 Esta é a minha [Página](https://pagina.com "Titulo da pagina").
 
-## URLs e endereços de e-mail
+## URLs e endereços de e-mail<a name="URL"></a>
 Para transformar rapidamente uma URL ou endereço de e-mail em um link, basta colocar entre < e >.
 
 Ex:
@@ -307,7 +306,7 @@ Saída:
 <https://www.pagina.com>
 <fake@example.com>
 
-## Escapando caracteres
+## Escapando caracteres <a name="Escapando-caracteres"></a>
 Para exibir um caractere literal que de outra forma seria usado para formatar texto em um documento Markdown, adicione uma barra invertida ( \) na frente do caractere.
 
 Ex:
@@ -318,7 +317,7 @@ Saída:
 
 \* Sem a barra invertida, isso seria um marcador em uma lista não ordenada.
 
-## HTML
+## HTML<a name="HTML"></a>
 Muitos aplicativos Markdown permitem que você use tags HTML em texto formatado por Markdown. Usar HTML é útil quando você precisa alterar os atributos de um elemento, como especificar a cor do texto ou alterar a largura de uma imagem.
 
 Ex:
