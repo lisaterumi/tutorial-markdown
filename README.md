@@ -265,7 +265,7 @@ Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Pági
 
 Ex:
 
-[pre]Esta é a minha [Página](https://pagina.com).[/pre]
+<pre>Esta é a minha [Página](https://pagina.com).</pre>
 
 Saída:
 
