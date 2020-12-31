@@ -89,17 +89,17 @@ Para criar uma lista ordenada (equivalente ao &lt;ol>&lt;li>), adicione itens de
 
 Ex.
 
-1. Primeiro item
-2. Segundo item
-3. Terceiro item
-    1. Subitem
+1&sdot; Primeiro item
+2&sdot; Segundo item
+3&sdot; Terceiro item
+    1&sdot; Subitem
 
 ou
 
-1. Primeiro item
-1. Segundo item
-1. Terceiro item
-   1.Subitem
+1&sdot; Primeiro item
+1&sdot; Segundo item
+1&sdot; Terceiro item
+   1&sdot; Subitem
 
 Saída:
 
