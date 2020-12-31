@@ -10,25 +10,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="/basic-syntax/#headings">Titulo</a></td>
+      <td>Titulo</td>
       <td><code># H1<br>
           ## H2<br>
           ### H3</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#bold">Negrito</a></td>
+      <td>Negrito</td>
       <td><code>**texto em negrito**</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#italic">Itálico</a></td>
+      <td>Itálico</td>
       <td><code>*texto em itálico*</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#blockquotes-1">Citação</a></td>
+      <td>Citação</td>
       <td><code>> blockquote</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#ordered-lists">Lista ordenada</a></td>
+      <td>Lista ordenada</td>
       <td><code>
         1. Primeiro item<br>
         2. Segundo item<br>
@@ -36,7 +36,7 @@
       </code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#unordered-lists">Lista não ordenada</a></td>
+      <td>Lista não ordenada</td>
       <td>
         <code>
           - Primeiro item<br>
@@ -46,19 +46,19 @@
       </td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#code">Código</a></td>
+      <td>Código</td>
       <td><code>`codigo`</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#horizontal-rules">Linha Horizontal</a></td>
+      <td>Linha Horizontal</td>
       <td><code>---</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#links">Link</a></td>
+      <td>Link</td>
       <td><code>[titulo](https://www.example.com)</code></td>
     </tr>
     <tr>
-      <td><a href="/basic-syntax/#images-1">Imagem</a></td>
+      <td>Imagem</td>
       <td><code>![texto](imagem.jpg)</code></td>
     </tr>
   </tbody>
@@ -66,7 +66,7 @@
 
 ## Recursos adicionais
 
-Nem todos os aplicativos Markdown suportam esses elementos.
+Obs: Nem todos os aplicativos Markdown suportam esses elementos.
 
 <table class="table table-bordered">
   <thead class="thead-light">
@@ -77,16 +77,16 @@ Nem todos os aplicativos Markdown suportam esses elementos.
   </thead>
   <tbody>
     <tr>
-      <td><a href="/extended-syntax/#tables">Tabela</a></td>
+      <td>Tabela</td>
       <td><code>
-          | Sintaxe      | Descrição |<br>
+          | Sintaxe     | Descrição |<br>
           | ----------- | ----------- |<br>
-          | Cabeçalho      | Titulo       |<br>
-          | Paragrafo   | Texto        |
+          | Cabeçalho   | Titulo   |<br>
+          | Paragrafo   | Texto       |
       </code></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#fenced-code-blocks">Bloco de código</a></td>
+      <td>Bloco de código</td>
       <td><code>```<br>
       {<br>
       &nbsp;&nbsp;"nome": "Matheus",<br>
@@ -97,19 +97,18 @@ Nem todos os aplicativos Markdown suportam esses elementos.
       </code></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#footnotes">Nota de rodapé</a></td>
+      <td>Nota de rodapé</td>
       <td><code>
         Frase com nota de rodapé. [^1]<br><br>
-
         [^1]: Este é o rodapé.
       </code></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#strikethrough">Tachado</a></td>
+      <td>Tachado</td>
       <td><code>~~A Terra é plana.~~</code></td>
     </tr>
     <tr>
-      <td><a href="/extended-syntax/#task-lists">Lista de tarefas</a></td>
+      <td>Lista de tarefas</td>
       <td><code>
         - [x] Tarefa 1<br>
         - [ ] Tarefa 2<br>
