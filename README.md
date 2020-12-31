@@ -89,16 +89,16 @@ Para criar uma lista ordenada (equivalente ao &lt;ol>&lt;li>), adicione itens de
 
 Ex.
 
-1&sdot; Primeiro item
-2&sdot; Segundo item
-3&sdot; Terceiro item
+1&sdot; Primeiro item  
+2&sdot; Segundo item  
+3&sdot; Terceiro item  
     1&sdot; Subitem
 
 ou
 
-1&sdot; Primeiro item
-1&sdot; Segundo item
-1&sdot; Terceiro item
+1&sdot; Primeiro item  
+1&sdot; Segundo item  
+1&sdot; Terceiro item  
    1&sdot; Subitem
 
 Saída:
@@ -125,14 +125,12 @@ ou
 
 &plus;	Primeiro item  
 &plus; Segundo item  
-&plus; Terceiro item  
 &nbsp;&nbsp;&nbsp;&plus; Subitem
 
 Saída:
 
 - Primeiro item
 - Segundo item
-- Terceiro item
    - Subitem
 
 https://www.markdownguide.org/basic-syntax/
