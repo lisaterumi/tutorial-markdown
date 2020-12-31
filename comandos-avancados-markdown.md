@@ -97,3 +97,48 @@ Saída:
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 
+## Emoji
+Existem duas maneiras de adicionar emoji a arquivos Markdown: copie e cole o emoji em seu texto formatado em Markdown ou digite códigos de atalho de emoji .
+
+### Copiando e colando emoji
+Podemos apenas copiar um emoji de uma fonte como a Emojipedia e colá-lo em nosso documento. Muitos aplicativos Markdown exibirão automaticamente o emoji no texto formatado em Markdown. 
+
+Obs: se você estiver usando um gerador de site estático, certifique-se de codificar as páginas HTML como UTF-8 .
+
+### Usando códigos de atalho de emoji
+Alguns aplicativos Markdown permitem inserir emoji digitando códigos de atalho de emoji. Eles começam e terminam com dois pontos e incluem o nome de um emoji.
+
+Ex:
+
+Gone camping! :tent: Be back soon.
+
+Foi divertido! :joy:
+
+Saída:
+
+Gone camping! :tent: Be back soon.
+
+Foi divertido! :joy:
+
+Foi acampar! ⛺ Volto logo.
+
+Isso é tão engraçado! 😂
+
+ Observação: você pode usar esta lista de códigos de atalho de emoji , mas lembre-se de que os códigos de atalho de emoji variam de aplicativo para aplicativo. Consulte a documentação do aplicativo Markdown para obter mais informações.
+Vinculação automática de URL
+Muitos processadores Markdown transformam URLs em links automaticamente. Isso significa que se você digitar http://www.example.com, seu processador Markdown o transformará automaticamente em um link, mesmo que você não tenha usado colchetes .
+
+http://www.example.com
+A saída renderizada é semelhante a esta:
+
+http://www.example.com
+
+Desativando Link Automático de URL
+Se não quiser que um URL seja vinculado automaticamente, você pode remover o link denotando o URL como um código com crases.
+
+`http://www.example.com`
+A saída renderizada é semelhante a esta:
+
+http://www.example.com
+
+Adaptado de: https://www.markdownguide.org/extended-syntax/
