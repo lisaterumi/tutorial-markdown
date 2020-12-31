@@ -43,5 +43,12 @@ Texto &lowast;&lowast;em negrito&lowast;&lowast;.
 
 Texto  &#95;&#95;em negrito &#95;&#95;.	
 
+## Itálico
+
+Para colocar o texto em itálico, adicione um asterisco ou sublinhado antes e depois de uma palavra ou frase. Ex:
+
+Texto &lowast;em itálico&lowast;.	
+
+Texto  &#95;em itálico;&#95;.
 
 https://www.markdownguide.org/basic-syntax/
