@@ -7,7 +7,7 @@ Obs: Verifique a documentação do seu processador para saber se ele suporta ess
 
 ## Indice
 1. [Tabelas](#Tabelas)
-1. [Realce de sintaxe](#Realce de sintaxe)
+1. [Realce de sintaxe](#Realce&nbs;de&nbs;sintaxe)
 1. [Tachado](#Tachado)
 1. [Listas de Tarefa](#Listas de Tarefa)
 1. [Emoji](#Emoji)
