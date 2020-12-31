@@ -51,4 +51,14 @@ Texto &lowast;em itálico&lowast;.
 
 Texto  &#95;em itálico;&#95;.
 
+## Negrito e Itálico
+
+Para enfatizar o texto com negrito e itálico ao mesmo tempo, adicione três asteriscos ou sublinhados antes e depois de uma palavra ou frase. 
+
+Texto &lowast;&lowast;&lowast;em itálico e negrito&lowast;&lowast;&lowast;.	
+
+Texto  &#95;&#95;&#95;em itálico e negrito&#95;&#95;&#95;.
+
+
+
 https://www.markdownguide.org/basic-syntax/
