@@ -192,7 +192,7 @@ Saída:
 
 ## Imagens
 
-&#33;[Título da imagem](&#47;caminho&#47;da&#47;imagem.png)
+&#33;&#91;Título da imagem](&#47;caminho&#47;da&#47;imagem.png)
 
 ## Código
 Para marcar uma palavra ou frase como código, coloque-a entre crases (&#96;), equivalente à tag &#60;code>.
@@ -209,9 +209,22 @@ Na linha de comando, digite `comando`.
 
 ``Escapando o sinal de `crase` no meu arquivo.``
 
+## Blocos de Código
+Para criar blocos de código, indente cada linha do bloco em pelo menos quatro espaços ou uma tabulação.
 
+Ex:
 
+&nbsp;&nbsp;&#60;html>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;head>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#60;/head>
+&nbsp;&nbsp;&nbsp;&nbsp;&#60;/html>
 
+Saída:
+
+  <html>
+      <head>
+      </head>
+    </html>
 
 
 
